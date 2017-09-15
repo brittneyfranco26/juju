@@ -14,7 +14,7 @@
 				content: url(kitten-medium.png);
 			}
 }			
-@media screen and (min-width:1500px) {
+@media screen and (min-width:800px) {
 	body{
 		content: url(kitten-large.png);
 	}
