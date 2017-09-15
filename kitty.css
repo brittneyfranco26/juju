@@ -1,21 +1,21 @@
 @media screen and(min-width:250px) {
-	body{
+	img{
      content: url(kittyloaf.gif);
        background-color:#000000;   
     }
 }
 @media screen and(min-width:350px) {
-		body{
-			content: url(kitten-small.png);
+	img{
+		content: url(kitten-small.png);
 		}
 }		
 @media screen and (min-width:500px) {
-			body{
-				content: url(kitten-medium.png);
+		img{
+			content: url(kitten-medium.png);
 			}
 }			
 @media screen and (min-width:800px) {
-	body{
+	img{
 		content: url(kitten-large.png);
 	}
 }	
