@@ -1,10 +1,10 @@
-@media screen and (min-width: 350px) {
+@media screen and (min-width: 400px) {
 	img{
      content: url(kittyloaf.gif);
        background-color:#000000;   
     }
 }
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 450px) {
 	img{
 		content: url(kitten-small.png);
 		}
